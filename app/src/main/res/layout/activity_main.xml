@@ -33,6 +33,6 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="94dp"
         android:layout_marginTop="258dp"
-        android:text="Value is : "
+        android:text="(CHANGED) : "
         android:textSize="24sp" />
 </android.widget.RelativeLayout>
