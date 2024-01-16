@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application2</string>
+    <string name="hello"> Hello Me</string>
+
+
+
 </resources>
